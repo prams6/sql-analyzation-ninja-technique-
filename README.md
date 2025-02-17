@@ -1,0 +1,1 @@
+# sql-analyzation-ninja-technique-
